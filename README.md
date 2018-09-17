@@ -1,1 +1,0 @@
-# ltdagabriel.github.io
