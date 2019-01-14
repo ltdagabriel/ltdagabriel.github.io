@@ -163,41 +163,29 @@ a:hover {
 }
 
 cufon {
+    display: inline !important;
+    display: inline-block !important;
+    position: relative !important;
+    vertical-align: middle !important;
+    font-size: 1px !important;
+    line-height: 1px !important;
+}
+
+cufon cufontext {
+    display: -moz-inline-box !important;
+    display: inline-block !important;
+    width: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+    text-indent: -10000in !important;
+}
+
+cufon canvas {
+    position: relative !important;
+}
+
+cufon {
     text-indent: 0 !important;
-}
-
-@media screen, projection {
-    cufon {
-        display: inline !important;
-        display: inline-block !important;
-        position: relative !important;
-        vertical-align: middle !important;
-        font-size: 1px !important;
-        line-height: 1px !important;
-    }
-
-    cufon cufontext {
-        display: -moz-inline-box !important;
-        display: inline-block !important;
-        width: 0 !important;
-        height: 0 !important;
-        overflow: hidden !important;
-        text-indent: -10000in !important;
-    }
-
-    cufon canvas {
-        position: relative !important;
-    }
-}
-
-@media print {
-    cufon {
-        padding: 0 !important;
-    }
-
-    cufon canvas {
-        display: none !important;
-    }
 }
 
 h1 {
@@ -458,10 +446,10 @@ img.portrait {
 .self ul li.ad {
     background-image: url(../images/icn-ad.gif);
 }
+
 .self ul li.map {
     background-image: url(../images/map.png);
 }
-
 
 .self ul li.mail {
     background-image: url(../images/icn-mail.gif);
