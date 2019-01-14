@@ -458,6 +458,10 @@ img.portrait {
 .self ul li.ad {
     background-image: url(../images/icn-ad.gif);
 }
+.self ul li.map {
+    background-image: url(../images/map.png);
+}
+
 
 .self ul li.mail {
     background-image: url(../images/icn-mail.gif);
