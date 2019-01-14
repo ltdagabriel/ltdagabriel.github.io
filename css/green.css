@@ -447,6 +447,9 @@ img.portrait {
     background-image: url(../images/icn-ad.gif);
 }
 
+.self ul li.cnh {
+    background-image: url(../images/cnh.png);
+}
 .self ul li.map {
     background-image: url(../images/map.png);
 }
