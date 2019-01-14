@@ -151,7 +151,7 @@ a:hover {
 
 .entry {
 	width:720px;
-	display: block;
+	/*display: block;*/
 	padding-top:55px;
 	clear: both;
 	margin-left:4px;
