@@ -154,10 +154,7 @@ a:hover {
 
 .entry {
     width: 720px;
-    /*display: block;*/
-    padding-top: 55px;
-    clear: both;
-    margin-left: 4px;
+    padding-left: 4px;
 }
 
 cufon {
@@ -185,9 +182,8 @@ cufon canvas {
 cufon {
     text-indent: 0 !important;
 }
-
+em{ top:0}
 h1 {
-    width: 250px;
     font-size: 42px;
     color: #315a60;
     margin-bottom: 3px;
@@ -202,8 +198,6 @@ h1 span {
 }
 
 h2 {
-    width: 180px;
-    height: 23px;
     text-align: right;
     float: left;
     padding: 0;
@@ -401,6 +395,7 @@ ul.works li img {
     padding: 4px;
     background-color: #fff;
     width: 95px;
+    float: left;
     height: 95px;
     border: 1px solid #b7c9cc;
     margin-right: 20px;
@@ -415,8 +410,9 @@ ul.works li img:hover {
 img.portrait {
     background-image: url(../images/frame.jpg);
     background-repeat: no-repeat;
-    width: 109px;
-    height: 109px;
+    background-size: 200px;
+    width: 200px;
+    position: center;
     padding-top: 20px;
     padding-left: 11px;
     padding-right: 11px;
@@ -430,11 +426,9 @@ img.portrait {
 /* ----------------------------------------- */
 
 .self {
-    width: 250px;
+    width: 60%;
     float: left;
-    padding-top: 11px;
-    margin-left: 38px;
-    margin-bottom: 15px;
+    padding-left: 4%;
 }
 
 .self ul {
@@ -468,8 +462,6 @@ img.portrait {
     background-repeat: no-repeat;
     padding-left: 26px;
     background-position: 0 .1em;
-    height: 25px;
-    display: block;
     margin-top: -2px;
 }
 
@@ -492,7 +484,6 @@ img.portrait {
     height: 24px;
     margin: 0;
     padding: 0;
-    margin-left: 6px;
 }
 
 /* TIPSY */
@@ -512,7 +503,9 @@ img.portrait {
     max-width: 200px;
     text-align: center;
 }
-
+li{
+    font-size: 14px;
+}
 .tipsy-inner {
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;

@@ -1,3 +1,28 @@
-name: Gabriel Choptian
+# Site settings
+title: Gabriel Choptian
+email: choptian@alunos.utfpr.edu.br
+description: > # this means to ignore newlines until "baseurl:"
+  Site pessoal utilizado para realização de testes e visualizações online.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://choptian.com.br" # the base hostname & protocol for your site
+twitter_username: ltdagabriel
+github_username:  ltdagabriel
+
+# Build settings
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+
+exclude:
+  - package.json
+  - node_modules
+  - gulpfile.js
+
+keep_files:
+  - _site/css
+  - _site/js
+
+include: ['_pages']
+
+collections:
+  rails:
+    output: true
+    permalink: /rails/:path

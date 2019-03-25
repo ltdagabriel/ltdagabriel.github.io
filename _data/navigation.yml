@@ -1,0 +1,5 @@
+# example /_data/navigation.yml
+- title: "Ruby on Rails"
+  href: /rails_issue/
+- title: "CV Vanderson"
+  href: /vanderson/

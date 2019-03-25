@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="container-full page-background">
+    <div class="container">
+        <div class="page">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                    <article class="issue">
+                        <div>
+                            {{ content | markdownify }}
+                        </div>
+                        <div>
+                            <h5> Labels</h5>
+                            {% assign tags = page.labels | split: ', '%}
+                            {% for tag in tags %}
+                            <span class="badge badge-secondary">{{tag}}</span>
+                            {% endfor %}
+
+                        </div>
+                        {% if page.tags %}
+                        <div>
+                            <h5> Tags Geradas</h5>
+                            {% assign tags = page.tags | split: ', '%}
+                            {% for tag in tags %}
+                            <span class="badge badge-secondary">{{tag}}</span>
+                            {% endfor %}
+                        </div>
+                        {% endif %}
+                    </article>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
