@@ -46,7 +46,7 @@ permalink: /vanderson
             EDUCAÇÂO PROFISSIONAL
         </h2>
         <div class="content">
-            <h3>2019</h3>
+            <h3>2020</h3>
             <p>FEITEP- Faculdade de Engenharias e Arquitetura <br>
                 <em>Cursando Pós-Graduação Engenharia de Segurança do Trabalho </em></p>
         </div>
@@ -66,6 +66,16 @@ permalink: /vanderson
         <h2>
             EXPERIÊNCIA
         </h2>
+        <div class="content">
+            <h3>2018 - 2020</h3>
+            <p> Maxx Paint - Pinturas e Reformas <br>
+                <em>Pintor</em></p>
+            <ul class="info">
+                <li>Edifício Le Monde, estacionamento e heliporto</li>
+                <li>Terraço Silva Jardim, estacionamento</li>
+                <li>Edifício dom Casmurro, estacionamento</li>
+            </ul>
+        </div>
         <div class="content">
             <h3>2012 - 2013</h3>
             <p>Microempresa Choptian e Razzini-ME <br>
