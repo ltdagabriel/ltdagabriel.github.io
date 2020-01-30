@@ -71,9 +71,11 @@ permalink: /vanderson
             <p> Maxx Paint - Pinturas e Reformas <br>
                 <em>Pintor</em></p>
             <ul class="info">
-                <li>Edifício Le Monde, estacionamento e heliporto</li>
-                <li>Terraço Silva Jardim, estacionamento</li>
-                <li>Edifício dom Casmurro, estacionamento</li>
+                <li>Edifício Le Monde <em>Estacionamento e Heliporto</em></li>
+                <li>Terraço Silva Jardim <em>Estacionamento</em></li>
+                <li>Edifício dom Casmurro <em>Estacionamento</em></li>
+                <li>Edifício Veleiros <em>Estacionamento</em></li>
+                <li>Colégio Estadual José Guimarães <em>Quadra poliesportiva</em></li>
             </ul>
         </div>
         <div class="content">
