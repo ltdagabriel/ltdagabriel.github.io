@@ -3,7 +3,30 @@
   <component name="ChangeListManager">
     <list default="true" id="7d7ea3f2-818d-4ec5-babc-4d0edb1462ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.2bb0dbb016942dced7c188d8a79ee04a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/2.47e06e2e.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/2.47e06e2e.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.7a878296.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.7a878296.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.41d663cc.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.41d663cc.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.41d663cc.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.7cef0bf4.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.7cef0bf4.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.a98479dd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.a98479dd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/logo.ee7cd8ed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/vando.68e25604.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +58,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.7.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -42,6 +66,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\WebstormProjects\ltdagabriel.github.io" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gabri\WebstormProjects\ltdagabriel.github.io\src\pages" />
       <recent name="C:\Users\gabri\WebstormProjects\ltdagabriel.github.io\src" />
@@ -73,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581178617541</updated>
       <workItem from="1581178619599" duration="15912000" />
-      <workItem from="1581196319249" duration="168000" />
+      <workItem from="1581196319249" duration="786000" />
     </task>
     <servers />
   </component>
